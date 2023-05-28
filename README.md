@@ -21,6 +21,6 @@ ublic class Main {
 
         System.out.println(" size of odds => "+Tool.odds.size());
         System.out.println(" size of evens => "+Tool.odds.size());
-
     }
+    
 }
